@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BananaArtCoin - Le Coin de l'Art</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">À Propos</a></li>
+                <li><a href="#buy">Acheter ARTB</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <div class="container">
+            <h1>Bienvenue sur BananaArtCoin</h1>
+            <p>Une nouvelle crypto-monnaie dédiée à l'art numérique.</p>
+            <button>En savoir plus</button>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>À Propos</h2>
+            <p>BananaArtCoin est un token crypto dédié à l'art numérique et à l'innovation dans l'espace blockchain.</p>
+        </div>
+    </section>
+
+    <section id="buy">
+        <div class="container">
+            <h2>Acheter ARTB</h2>
+            <p>Procurez-vous votre propre BananaArtCoin sur PancakeSwap.</p>
+            <button><a href="https://pancakeswap.finance/swap" target="_blank">Acheter ARTB</a></button>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contactez-nous</h2>
+            <p>Pour toute question, contactez-nous à l'adresse email suivante :</p>
+            <p><a href="mailto:therealbananalord@proton.me">therealbananalord@proton.me</a></p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 BananaArtCoin. Tous droits réservés.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
